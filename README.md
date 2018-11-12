@@ -5,7 +5,7 @@ This tutorial is culled from the materials online at Mozilla. Mozilla gives a co
 
 I've selected only a fraction of the steps so you can focus on the languages HTML and CSS.
 
-# SESSION 1
+# SESSION 0
 
 ## Intro To HTML and CSS
 
@@ -19,7 +19,7 @@ CSS Basics
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
 
 
-# SESSION 1 or 2
+# SESSION 1
 
 ## Learning HTML
 
@@ -36,7 +36,7 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advance
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
 
 
-# SESSION 2 or 3
+# SESSION 2
 
 ## Learning CSS
 
