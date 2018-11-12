@@ -1,4 +1,9 @@
 
+#Overview
+
+This tutorial is culled from the materials online at Mozilla. Mozilla gives a complete wide ranging web education for developers on their site covering ftp and domain names as well as css and html and other topics.
+
+I've selected only a fraction of the steps so you can focus on the languages HTML and CSS.
 
 # SESSION 1
 
